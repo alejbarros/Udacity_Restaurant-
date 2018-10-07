@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+#map-container {
+	width:100%;
+  height:400px;
+}
+#map {
+  height: 400px;
+  width: 100%;
+  background-color: #ccc;
+}
